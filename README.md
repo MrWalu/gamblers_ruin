@@ -1,4 +1,4 @@
-# gamblers_ruin
+# Gambler's ruin algorithms
 Algorithms resolving gambler's ruin problems
 ### 2players_pA50.py
 2 players
